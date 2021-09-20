@@ -2,4 +2,4 @@
 
 * Cat R. Waul
 * Medusa
-* Dr. Herrera
+* Cap America
